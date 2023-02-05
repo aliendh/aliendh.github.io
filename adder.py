@@ -1,1 +1,4 @@
-print(2+3)
+def adder():
+   print(2+3)
+
+adder()
