@@ -1,4 +1,6 @@
 def adder():
-   print(2+3)
+  a = 3
+  b = 2
+  return print(a+b) 
 
 adder()
